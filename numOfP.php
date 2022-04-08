@@ -1,6 +1,7 @@
 <html>
+
     <head>
-        <title>تسجيل منظمين</title>
+        <title>تسجيل أفراد</title>
     </head>
 
     <body>
@@ -14,8 +15,5 @@
         <center>
 
     </body>
-
-
-
 
 </html>
